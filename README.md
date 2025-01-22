@@ -148,14 +148,3 @@ void shouldParseJsonIntoGroupedDaily() throws Exception {
 3. Write comprehensive tests
 4. Configure appropriate HTTP headers
 5. Handle API errors gracefully
-
-## Contributing
-
-Contributions welcome! Please ensure:
-1. Tests pass
-2. New features include tests
-3. Code follows existing style
-
-## License
-
-[Add your license information here]
